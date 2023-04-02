@@ -1,0 +1,52 @@
+.ProposalItem {
+    display: flex;
+    align-items: center;
+    padding: 8px 0;
+
+    span {
+        color: #5f6368;
+        font-size: 17px;
+        font-weight: 500;
+    }
+
+    i {
+        color: #4285f487;
+        margin-right: 8px;
+        font-size: 15px;
+    }
+
+    .text {
+        display: flex;
+        align-items: center;
+        padding: 8px 0;
+        justify-content: space-between;
+    }
+
+}
+
+.ProposalItemMean {
+    display: flex;
+    height: 100%;
+    padding: 8px 0;
+    justify-content: space-between;
+    text-align: right;
+
+    .text {
+        font-size: 15px;
+        font-weight: 600;
+    }
+
+    i {
+        cursor: pointer;
+    }
+}
+
+.ProposalItem:hover {
+    cursor: pointer;
+
+    i {
+        color: #4286f4;
+        margin-right: 8px;
+        font-size: 15px;
+    }
+}
