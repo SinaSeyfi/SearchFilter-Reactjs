@@ -1,3 +1,12 @@
+# React Search Filter
+
+this is simple translator app to showing search filter.
+in this project used:
+- Reactjs
+- sass
+- bootstrap
+- Font Awesome
+ ( Limited words are used in this project )
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
